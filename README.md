@@ -1,4 +1,4 @@
-# Presents — Inverse Permutation Construction
+#  Inverse Permutation Construction
 
 ## 📌 Problem
 
